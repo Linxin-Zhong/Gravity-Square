@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1579230222 source:/Users/lolazhong/Desktop/SummativeTask/main.cpp
+	<iostream>
+	<fstream>
+	<GLUT/glut.h>
+	<math.h>
+
+1606750303 source:/Users/lolazhong/Desktop/G12/ICS4U1/SummativeTask/main.cpp
+	<iostream>
+	<fstream>
+	<GLUT/glut.h>
+	<math.h>
+
