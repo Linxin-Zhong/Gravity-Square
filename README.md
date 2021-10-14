@@ -1,10 +1,11 @@
 # Gravity-Square
 A game inspired by the brief Platform Game "And Everything Started To Fall" created by Alexitrón. 
 
-Design:
+Video:
 
 
-![Screen Layout](https://user-images.githubusercontent.com/77327417/137242978-246ce3c5-7b19-4b06-ac96-c719dd6c19a3.jpg)
+https://user-images.githubusercontent.com/77327417/137329630-7da669d6-3bfd-4278-bd8e-83c8df515d33.MP4
+
 
 Screen Shots:
 
